@@ -1,1 +1,1 @@
-# cgpa-calculator-python
+CGPA CALCULATOR 🖩 🗸
